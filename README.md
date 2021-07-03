@@ -1,1 +1,1 @@
-Recriando a interface do Netflix, atividade do bootcamp: HTML Web developer (DIO)
+A ideia inicial da atividade era recriar a interface da netflix (fazer uma cópia), porém decidi que queria fazer algo diferente que batizei de "GAME INFO" essa atividade é do bootcamp: HTML Web developer (DIO)
